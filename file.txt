@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 something something
+=======
+something else
+>>>>>>> change-two
